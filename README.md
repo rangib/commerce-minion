@@ -1,2 +1,3 @@
-# commerce-minion
+commerce-minion
+===============
 Sitecore Commerce Minion Starter
